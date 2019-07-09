@@ -1,0 +1,18 @@
+.body-login {
+    background-color: #1b1e21;
+}
+
+.login-box {
+    background: rgba(0, 0, 0, .6);
+    color: rgba(255, 255, 255, .8);
+}
+
+.login-box .form-control {
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, .6);
+    color: #fff;
+}
+
+.login-box .form-control:focus {
+    border-color: rgba(255, 255, 255, 1);
+}
