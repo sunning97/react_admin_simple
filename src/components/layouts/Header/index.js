@@ -68,9 +68,7 @@ function Index(props) {
                 <ul className="nav navbar-toolbar">
                     <li>
                         <span style={{ cursor: 'pointer' }} className="nav-link sidebar-toggler js-sidebar-toggler">
-                            <span className="icon-bar" />
-                            <span className="icon-bar" />
-                            <span className="icon-bar" />
+                            <i className="ti-menu"/>
                         </span>
                     </li>
                     <li>
