@@ -6,7 +6,7 @@
     "@kenshooui/react-multi-select": "^1.0.73",
     "@sn8/themify-icons": "^1.0.0",
     "animate.css": "^3.7.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "deep-equal": "^1.0.1",
